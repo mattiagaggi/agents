@@ -77,4 +77,4 @@ for step in result["intermediate_steps"]:
     print(step)
 
 print("\nFinal Output:")
-print(result["output"])
+print(result)
